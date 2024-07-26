@@ -106,14 +106,7 @@ public class GamePanel extends JPanel implements Runnable {
 		playMusic(0);
 		
 	}
-//	public void reStart() {
-//		
-//		player.setDefaultValues();
-//		assetSetter.setObject();
-//		assetSetter.setMonster();
-//		
-//		
-//	}
+
 
 	public void startGameThread() {
 		
