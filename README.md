@@ -1,4 +1,4 @@
-<img width="958" alt="pwrpff" src="https://github.com/user-attachments/assets/4e646e97-c736-4b45-905a-46426f24e6b2" />
+
 Docs :
 https://docs.google.com/document/d/1-E9WbflYEuBOl_NIigIih0KZNmfEohPrzgO2KRyMoLY/edit
 YouTube:
