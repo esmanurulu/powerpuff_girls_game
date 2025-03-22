@@ -19,8 +19,7 @@ import object.SuperObject;
 
 public class Player extends Entity {
 	
-	// *****!!!ANAHTAR ALIP GECEBİLECEGİ BİR YER YAP. NPCLER İCİN COLLİSİON OLMASIN ORDAN VEYA HEM ÜSTTE HEM ALTTA NPC ÜRETSİN
-	//HAREKETLİ PLATFORM. OBJE VEYA NPC SEKLİNDE YAP
+	
 	
 	public String colorChange = "red";
 	BufferedImage image;
